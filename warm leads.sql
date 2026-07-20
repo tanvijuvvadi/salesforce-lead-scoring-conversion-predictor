@@ -1,0 +1,3 @@
+SELECT *
+FROM Lead_Management
+WHERE Lead_Score BETWEEN 50 AND 79;
